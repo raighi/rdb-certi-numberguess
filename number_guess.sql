@@ -68,7 +68,6 @@ INSERT INTO public.users VALUES ('user_1791284314067', 0, NULL);
 INSERT INTO public.users VALUES ('user_1791284314066', 0, NULL);
 INSERT INTO public.users VALUES ('user_1791284789208', 0, NULL);
 INSERT INTO public.users VALUES ('user_1791284789207', 0, NULL);
-INSERT INTO public.users VALUES ('Test', 2, 3);
 INSERT INTO public.users VALUES ('user_1791285071829', 2, NULL);
 INSERT INTO public.users VALUES ('user_1791285071830', 5, NULL);
 INSERT INTO public.users VALUES ('user_1791285150024', 2, NULL);
@@ -81,6 +80,13 @@ INSERT INTO public.users VALUES ('user_1791285254086', 2, NULL);
 INSERT INTO public.users VALUES ('user_1791285254087', 5, NULL);
 INSERT INTO public.users VALUES ('user_1791285304512', 2, NULL);
 INSERT INTO public.users VALUES ('user_1791285304513', 5, NULL);
+INSERT INTO public.users VALUES ('user_1791289375367', 2, NULL);
+INSERT INTO public.users VALUES ('user_1791289375368', 5, NULL);
+INSERT INTO public.users VALUES ('Test', 4, 1);
+INSERT INTO public.users VALUES ('user_1791289784561', 2, 501);
+INSERT INTO public.users VALUES ('user_1791289784562', 5, 501);
+INSERT INTO public.users VALUES ('user_1791289847908', 2, 501);
+INSERT INTO public.users VALUES ('user_1791289847909', 5, 501);
 
 
 --
